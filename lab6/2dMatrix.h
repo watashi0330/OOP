@@ -9,7 +9,7 @@ class Matrix{
     public:
         Matrix(int i = 1,int j=1);
         void set(int i , int j,float *ptr);
-        float[][] get();
+        float[10][10] get();
 };
 Matrix::Matrix(int i = 1, int j=1){
     set(arr[][], i, j);
